@@ -1,0 +1,4 @@
+levels/
+training_*.txt
+learned/statistics.csv
+/media/ramdisk/atari_goaldist/

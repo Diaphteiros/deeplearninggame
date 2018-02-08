@@ -1,0 +1,83 @@
+This project uses code and images from others. The licenses are given below. 
+
+
+License for the Mario Project. It covers basically all lua files, except for AIConnector.lua and those belonging to the Atari license below.
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Alexander Jung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+License for the Atari network. It belongs to the lua files in the "layers" directory in the "atari_classic" and "atari_goaldist" folders that don't overwrite files in the "Game Files/layers" folder and to the code of the "network.createAtari()" method within network.lua in these folders.
+
+LIMITED LICENSE:
+
+Copyright (c) 2016 DeepMind Technologies
+Limited License: Under no circumstance is commercial use, reproduction, or
+distribution permitted. Use, reproduction, and distribution are permitted
+solely for academic use in evaluating and reviewing claims made in
+"Human-level control through deep reinforcement learning", Nature 518, 529–533
+(26 February 2015) doi:10.1038/nature14236, provided that the following
+conditions are met:
+
+* Any reproduction or distribution of source code must retain the above
+copyright notice and the full text of this license including the following
+disclaimer.
+
+* Any reproduction or distribution in binary form must reproduce the above
+copyright notice and the full text of this license including the following
+disclaimer in the documentation and/or other materials provided with the
+distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+All graphic files in the "Game Files/gfx" folder except for the ones in the "numbers" folder and the ones named "primitive.png" were taken from one of 
+	https://opengameart.org/content/dungeon-crawl-32x32-tiles
+	https://opengameart.org/content/coins-asset
+	https://opengameart.org/content/items-and-elements
+	https://opengameart.org/content/superpowers-assets-characters
+and are licensed under CC0 (public domain). 
+
+
+
+All files not covered by one of the licenses above were created for this project and are under the following license.
+
+MIT License
+Copyright (c) 2017 Johannes Aubart
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

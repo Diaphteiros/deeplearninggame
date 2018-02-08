@@ -1,0 +1,4 @@
+levels/
+training*.txt
+learned/statistics.csv
+/media/ramdisk/tmp/

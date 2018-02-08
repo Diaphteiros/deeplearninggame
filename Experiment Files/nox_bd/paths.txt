@@ -1,0 +1,4 @@
+levels_bd/
+training_*.txt
+learned/statistics.csv
+/media/ramdisk/nox_bd/

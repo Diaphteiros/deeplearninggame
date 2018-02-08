@@ -1,0 +1,4 @@
+levels_rndgfx/
+training_*.txt
+learned/statistics.csv
+/media/ramdisk/classic_rndgfx/
