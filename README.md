@@ -8,7 +8,7 @@ This project is the result of a Master's thesis that aimed at creating a primiti
 
 
 ## General Requirements
-The game needs Python 3.5 and the PyGame library (version 1.9.3 was used) to be run. For the AI, follow the installation procedure on <https://github.com/aleju/mario-ai>. You can skip the whole part with the emulator though, that is only needed if you want to run Super Mario. 
+The game needs Python 3.5 and the PyGame library (version 1.9.3 was used) to be run. For the AI, follow the installation procedure on <https://github.com/aleju/mario-ai>. You can skip the whole part with the emulator though, that is only needed if you want to run Super Mario. [Bastibe](https://github.com/bastibe)'s [lunatic python fork](https://github.com/bastibe/lunatic-python) is used to connect the Python game and the LUA learning algorithm.
 
 
 
